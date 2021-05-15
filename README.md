@@ -1,3 +1,6 @@
+# 详细
+掘金:[vue-router@4.x 路由权限控制](https://juejin.cn/post/6962480125300604935)
+
 # Vue 3 + Typescript + Vite
 
 This template should help get you started developing with Vue 3 and Typescript in Vite.
